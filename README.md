@@ -32,6 +32,6 @@ iNaturalist APIs serve up to 200 records per response. You would have to paginat
 GBIF.org (15 June 2020) GBIF Occurrence Download https://doi.org/10.15468/dl.kdespa
 
 ## Copyright
-Visualization is publised under Apache License. For any information on derivative work, please contact Yugender Subramanian - checkoutyugimani@gmail.com. 
-Source data is published under multiple licenses by iNaturalist. For any information on data, please contact [iNaturalist](https://www.inaturalist.org/pages/help)
+* Visualization is publised under Apache License. For any information on derivative work, please contact Yugender Subramanian - checkoutyugimani@gmail.com. 
+* Source data is published under multiple licenses by iNaturalist. For any information on data, please contact [iNaturalist](https://www.inaturalist.org/pages/help)
 
