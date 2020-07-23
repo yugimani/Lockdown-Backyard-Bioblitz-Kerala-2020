@@ -26,7 +26,7 @@ iNaturalist APIs serve up to 200 records per response. You would have to paginat
 1. Visualize using Tableau Public
 
 ## Visualization
-[Bioblitz Viz] (https://public.tableau.com/views/Lockdwon-Backyard-Bioblitz-Kerala-2020/ObservationsbyUser?:language=en&:display_count=y&publish=yes&:origin=viz_share_link)
+[Bioblitz Viz](https://public.tableau.com/views/Lockdwon-Backyard-Bioblitz-Kerala-2020/ObservationsbyUser?:language=en&:display_count=y&publish=yes&:origin=viz_share_link)
 
 ## Citations:
 GBIF.org (15 June 2020) GBIF Occurrence Download https://doi.org/10.15468/dl.kdespa
