@@ -26,6 +26,7 @@ For manual one-off experiments, the [export](https://www.inaturalist.org/observa
 1. Fill gaps in time series using Jupyter Notebook.
 1. Calculate running total using Excel.
 1. Visualize using Tableau Public
+
 **Note** A lot of these steps could possibly be simplified with better understanding of Tableau, Python and Excel. If you do, reach out to me. 
 
 ## Visualization
