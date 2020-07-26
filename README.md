@@ -40,4 +40,5 @@ GBIF.org (15 June 2020) GBIF Occurrence [Download](https://doi.org/10.15468/dl.k
 ## Credits
 * Animation was inspired from few posts on TowardsDataScience. Thanks to respective authors. 
 * Thanks to iNat community
+* Thanks to Tableau community
 
