@@ -13,13 +13,22 @@ iNaturalist APIs serve up to 200 records per response. You would have to paginat
 
 For manual one-off experiments, the [export](https://www.inaturalist.org/observations/export) feature in iNat can be very useful. 
 
-## Tools used:
+## Tools:
 1. Postman
 1. Tableau Public
 1. Jupyter Notebook
 1. Microsoft Excel
 
-## Steps:
+## APIs:
+1. LocationIQ
+1. iNaturalist
+
+## Python packages:
+1. pyinaturalist
+1. pandas
+1. location-iq
+
+## Animation Steps:
 1. Using any RESTful client, get all observations in JSON format. cURL and Python would do just fine. 
 1. Create a dataset in Tableau Public and 'unionize' all observations into a table. 
 1. Export just the *user_login, Observed_On, SUM([Id])* measures. 
@@ -40,7 +49,8 @@ GBIF.org (15 June 2020) GBIF Occurrence [Download](https://doi.org/10.15468/dl.k
 * Source data is published under multiple licenses by iNaturalist. For any information on data, please contact [iNaturalist](https://www.inaturalist.org/pages/help)
 
 ## Credits
-* Animation was inspired from few posts on TowardsDataScience. Thanks to respective authors. 
+* Visualizations were inspired from TowardsDataScience and Reddit. Thanks to respective authors. 
 * Thanks to iNat community
 * Thanks to Tableau community
-
+* Thanks to LocationIQ
+* Thanks to Reddit r/dataisbeautiful community
